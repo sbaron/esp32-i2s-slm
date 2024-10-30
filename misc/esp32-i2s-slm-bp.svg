@@ -8,6 +8,7 @@
    fill-rule="evenodd"
    stroke-width="28.222"
    stroke-linejoin="round"
+   style="background-color:white"
    xml:space="preserve"
    id="svg2446"
    sodipodi:docname="esp32-i2s-slm-bp.svg"
